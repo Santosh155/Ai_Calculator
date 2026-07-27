@@ -1,0 +1,4 @@
+bin/
+obj/
+.qodo
+appsettings.Development.json
