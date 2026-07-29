@@ -1,5 +1,5 @@
 @Ai_Calculator_HostAddress = http://localhost:5219
 
-GET {{Ai_Calculator_HostAddress}}/chat?prompt=What is 500 + 250 - 100?
+GET {{Ai_Calculator_HostAddress}}/chat?prompt=What is 500 + 250?
 Content-Type: application/json
 ###
